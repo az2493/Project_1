@@ -3,7 +3,7 @@ Project Proposal: Poker
 
 The Game:
 
-52 cards, 4 aces + 4 Kings + 4 Queens (No Joker)
+52 cards, 4 aces + 4 Kings + 4 Queens (No Joker) (maybe card library)
 
 Moves: 
 1. Five of a Kind (Highest possible hand
@@ -27,7 +27,7 @@ Betting:
 
 - Use method to shuffle the cards
 - Ask player to start game 
-- Give the first 2 cards to the computer
+- Give the first 2 cards to the computer // default 
 - Give the second 2 cards to the human player
 - Show the next 3 cards of the deck
 - Start the game with X amount
